@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @diyammohan
 - 👀 I’m interested in Software development, Cybersecurity
-- 🌱 I’m currently learning SQL
+- 🌱 I’m currently learning SQL @ https://leetcode.com/studyplan/top-sql-50/
 - 💞️ I’m looking to collaborate on software dev and cybersecurity projects
 - 📫 How to reach me mmohandiya@gmail.com
 - 😄 Pronouns: She/Her
